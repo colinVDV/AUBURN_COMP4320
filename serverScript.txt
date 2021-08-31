@@ -1,0 +1,131 @@
+Terminal session: 7/30/2021    @5:22PM
+
+C:\Users\colin\Downloads\COMP4320-Chris-Gremlin-Adjustments-P2\COMP4320-Chris-Gremlin-Adjustments-P2>java UDPServer.java 
+Data received is: get dataFile.html HTTP/1.0
+line: <!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <ul>
+            <li>
+                Colin Vijvere likes to eat tomatoes. 
+            </li>
+            <li>
+                Chris Acosta likes to eat beef liver.
+            </li>
+            <li>
+                Jacob Badolato likes to eat cow tongue.
+            </li>
+            <li>
+                How many electrical engineers does it take to 10011110001100?     
+            </li>
+            <li>
+                Chris is hammer
+            </li>
+            <li>
+                Colin is door
+            </li>
+            <li>
+                Jacob is brick
+            </li>
+            <li>
+                Cheetahs
+            </li>
+        </ul>
+        <ul>
+            <li>
+                Colin Vijvere likes to eat tomatoes.
+            </li>
+            <li>
+                Chris Acosta likes to eat beef liver.
+            </li>
+            <li>
+                Jacob Badolato likes to eat cow tongue.
+            </li>
+            <li>
+                How many electrical engineers does it take to 10011110001100?     
+            </li>
+            <li>
+                Chris is hammer
+            </li>
+            <li>
+                Colin is door
+            </li>
+            <li>
+                Jacob is brick
+            </li>
+            <li>
+                Cheetahs
+            </li>
+        </ul>
+        <ul>
+            <li>
+                Colin Vijvere likes to eat tomatoes.
+            </li>
+            <li>
+                Chris Acosta likes to eat beef liver.
+            </li>
+            <li>
+                Jacob Badolato likes to eat cow tongue.
+            </li>
+            <li>
+                How many electrical engineers does it take to 10011110001100?     
+            </li>
+            <li>
+                Chris is hammer
+            </li>
+            <li>
+                Colin is door
+            </li>
+            <li>
+                Jacob is brick
+            </li>
+            <li>
+                Puddings
+            </li>
+        </ul>
+        <ul>
+            <li>
+                Colin Vijvere likes to eat tomatoes.
+            </li>
+            <li>
+                Chris Acosta likes to eat beef liver.
+            </li>
+            <li>
+                Jeepers Bryce it's Json Bourne!
+            </li>
+            <li>
+                Cheese and rice it's Asian corn!
+            </li>
+            <li>
+                Chris is hammer
+            </li>
+            <li>
+                Colin is door
+            </li>
+            <li>
+                Jacob is brick
+            </li>
+            <li>
+                Puddings
+            </li>
+        </ul>
+    </body>
+</html>
+
+
+---------------------------
+Packets in circulation
+---------------------------
+SEQUENCE NUMBER = 0
+SEQUENCE NUMBER = 1
+SEQUENCE NUMBER = 2
+
+The following have been resent due to NACK:
+[2]
+----------------------------------
+nullByte packet sent.
+----------------------------------
